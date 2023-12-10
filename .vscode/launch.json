@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/desktop/selfcppgame",
-      "program": "d:/desktop/selfcppgame/build/Debug/outDebug",
+      "cwd": "q:/trrne/selfcppgame/src",
+      "program": "q:/trrne/selfcppgame/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
